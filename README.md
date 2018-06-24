@@ -1,4 +1,4 @@
-# JavaScript this Code-Along
+# JavaScriipt this Code-Along
 
 ## Overview 
 
