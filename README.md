@@ -461,5 +461,6 @@ We learned how to *borrow* functions from other objects using `call`, `apply`, a
 - [MDN: Function.prototype.call()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
 - [MDN: Function.prototype.apply()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
 - [MDN: Function.prototype.bind()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
+- [Function binding](https://javascript.info/bind)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/javascript-this-code-along'>Javascript this Codealong</a> on Learn.co and start learning to code for free.</p>
